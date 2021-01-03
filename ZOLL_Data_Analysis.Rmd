@@ -10,7 +10,7 @@ output: html_document
 
 ```{r include=FALSE}
 
-### Initialization
+### Initialization ###
 
 if (!require(pacman)) {install.packages('pacman')} #install pacman if it is not loaded
 #pacman is a package load/install handler
